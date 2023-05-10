@@ -1,0 +1,70 @@
+body {
+    background-color: #48CCFC;
+}
+.container{
+    background-color: #2E84A3;
+    width: 200px;
+    height: 150px;
+}
+button {
+    background-color: #3BCC75;
+    width: 150px;
+}
+#senha{
+    margin-top: 5px;
+}
+.button {
+    margin-top: 15px;
+    border:none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 180px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.cadastro{
+    font-size: small;
+    margin-right: 30px;
+}
+.esquecisenha{
+    font-size: small;
+    margin-left: 25px;
+}
+.digite{
+    color: white;
+    font-size: small;
+}
+.pais{
+    width: 177px;
+    padding: 2px;
+}
+.button2{
+    margin-top: 15px;
+    border:none;
+    background-color:red;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 180px;
+}
+.container2{
+    background-color: #2E84A3;
+    width: 200px;
+    height: 280px;
+}
+.container3{
+    background-color: #2E84A3;
+    width: 200px;
+    height: 140px;
+}
+input, select{
+    margin-top: 3px;
+}
